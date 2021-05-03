@@ -1,0 +1,27 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "extensions.ignoreRecommendations": true,
+    "workbench.colorTheme": "Winter is Coming (Dark Blue - No Italics)",
+    "workbench.iconTheme": "vscode-icons",
+    "debug.console.fontFamily": "Fira Code Retina",
+    "window.zoomLevel": 1,
+    "terminal.integrated.fontSize": 14,
+    "emmet.syntaxProfiles": {
+      "javascript": "jsx"
+    },
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    },
+    "breadcrumbs.enabled": true,
+    "vsicons.dontShowNewVersionMessage": true,
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "typescript.tsdk": "node_modules\\typescript\\lib",
+    "git.ignoreLimitWarning": true
+  }
+}
