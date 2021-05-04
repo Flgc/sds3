@@ -15,7 +15,8 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "jsx": "react-jsx"
+    //"jsx": "react-jsx"    //Esta apresntando mensagem de erro no VSCODE
+    "jsx": "react"
   },
   "include": ["src"]
 }
