@@ -54,7 +54,7 @@ O principal requisito funcional que foi solicitado no evento foi a implementaç�
 
 ## 📟 Layout web
 
-![Web 1](https://github.com/Flgc/sds3/blob/main/projeto-sds3/frontend/public/DSVendas1.png)
+![Web 1](https://github.com/Flgc/sds3/blob/main/projeto-sds3/frontend/public/Dsvendas1.png)
 <br>
 ![Web 2](https://github.com/Flgc/sds3/blob/main/projeto-sds3/frontend/public/DSVendas.png)
 
