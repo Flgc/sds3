@@ -32,7 +32,7 @@
 [**Modelo em Camadas**](https://github.com/Flgc/sds3#-modelo-em-camadas) &nbsp;&nbsp;**|**&nbsp;&nbsp;
 [**Tecnologias utilizadas**](https://github.com/Flgc/sds3#-tecnologias-utilizadas) &nbsp;&nbsp;**|**&nbsp;&nbsp;
 [**Como instalar e executar o projeto**](https://github.com/Flgc/sds3#-como-instalar-e-executar-o-projeto) &nbsp;&nbsp;**|**&nbsp;&nbsp;
-[**Contato**](https://github.com/Flgc/sds2#-contato) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**Contato**](https://github.com/Flgc/sds3#-contato) &nbsp;&nbsp;**|**&nbsp;&nbsp;
 
 </div><br><br>
 
@@ -55,15 +55,16 @@ O principal requisito funcional que foi solicitado no evento foi a implementaç�
 ## 📟 Layout web
 
 ![Web 1](https://github.com/Flgc/sds3/blob/main/projeto-sds3/frontend/public/DSVendas1.png)
+<br>
 ![Web 2](https://github.com/Flgc/sds3/blob/main/projeto-sds3/frontend/public/DSVendas.png)
 
 ## 🌎 Modelo conceitual
 
-![Modelo Conceitual](![Web 1](https://github.com/Flgc/sds3/blob/main/projeto-sds3/frontend/public/model.png))
+![Modelo Conceitual](https://github.com/Flgc/sds3/blob/main/projeto-sds3/frontend/public/model.png)
 
 ## 🌎 Modelo em camadas
 
-![Modelo Camadas](![Web 1](https://github.com/Flgc/sds3/blob/main/projeto-sds3/frontend/public/Layers.png))
+![Modelo Camadas](https://github.com/Flgc/sds3/blob/main/projeto-sds3/frontend/public/Layers.png)
 
 # 🚀 Tecnologias utilizadas
 
