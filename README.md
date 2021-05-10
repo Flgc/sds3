@@ -25,13 +25,13 @@
 
 <div align="center">
 
-[**Sobre**](https://github.com/Flgc/sds2#-sobre-o-projeto) &nbsp;&nbsp;**|**&nbsp;&nbsp;
-[**Demonstração**](https://github.com/Flgc/sds3/blob/main/projeto-sds3/frontend/public/sds3.gif) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**Sobre**](https://github.com/Flgc/sds3#-sobre-o-projeto) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**Demonstração**](https://github.com/Flgc/sds3#-demonstra%C3%A7%C3%A3o-web) &nbsp;&nbsp;**|**&nbsp;&nbsp;
 [**Layout Web**](https://github.com/Flgc/sds2#-layout-web) &nbsp;&nbsp;**|**&nbsp;&nbsp;
-[**Modelo Conceitual**](https://github.com/Flgc/sds2#-modelo-conceitual) &nbsp;&nbsp;**|**&nbsp;&nbsp;
-[**Modelo em Camadas**](https://github.com/Flgc/sds2#-modelo-em-camadas) &nbsp;&nbsp;**|**&nbsp;&nbsp;
-[**Tecnologias utilizadas**](https://github.com/Flgc/sds2#-tecnologias-utilizadas) &nbsp;&nbsp;**|**&nbsp;&nbsp;
-[**Como instalar e executar o projeto**](https://github.com/Flgc/sds2#-como-instalar-e-executar-o-projeto) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**Modelo Conceitual**](https://github.com/Flgc/sds3#-modelo-conceitual) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**Modelo em Camadas**](https://github.com/Flgc/sds3#-modelo-em-camadas) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**Tecnologias utilizadas**](https://github.com/Flgc/sds3#-tecnologias-utilizadas) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**Como instalar e executar o projeto**](https://github.com/Flgc/sds3#-como-instalar-e-executar-o-projeto) &nbsp;&nbsp;**|**&nbsp;&nbsp;
 [**Contato**](https://github.com/Flgc/sds2#-contato) &nbsp;&nbsp;**|**&nbsp;&nbsp;
 
 </div><br><br>
